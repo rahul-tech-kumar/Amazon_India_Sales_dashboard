@@ -55,7 +55,9 @@ It is designed to enable data-driven decision-making by offering interactive vis
 
 | Tool/Technology | Usage |
 |-----------------|------|
+| Python           | Data Cleaning of 1M data |
 | Power BI         | Data visualization, dashboards, filters, and KPIs |
+| Statistics       | Data visualizing and Understanding the plots |
 | Excel / CSV      | Data import and preprocessing |
 | DAX              | Custom metrics and calculations |
 | Maps integration | Geographic insights visualization |
